@@ -4,4 +4,4 @@ In this notebook introduces a prediction using a Long Short-Term Memory (LSTM) w
 
 The data set used is "Power consumption of Tetouan city Data Set" from UCI Machine Learning Repository.
 
-Also a prediction using XGBoost a different explanatory framework named SHAP was used to compare the LSTM with explainability.
+Also a prediction using XGBoost with different explanatory framework named SHAP was used to compare the LSTM with explainability.
