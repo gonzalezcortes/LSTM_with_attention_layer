@@ -14,5 +14,5 @@ Keras architecture:
 
 
 <p align="center" width="100%">
-    <img width="50%" src="index.png">
+    <img width="35%" src="index.png">
 </p>
