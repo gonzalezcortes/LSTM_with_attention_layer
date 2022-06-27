@@ -6,13 +6,13 @@ Also a prediction using XGBoost with different explanatory framework named SHAP 
 
 Representation of the attention values:
 
-![alt text](https://github.com/gonzalezcortes/LSTM-with-attention-layer/blob/main/attention_values.jpg?raw=true)
+<p align="center" width="100%">
+    <img width="100%" src="attention_values.jpg">
+</p>
 
 Keras architecture:
 
-![alt text](https://github.com/gonzalezcortes/LSTM-with-attention-layer/blob/main/index.png?raw=true)
-
 
 <p align="center" width="100%">
-    <img width="32%" src="index.png">
+    <img width="50%" src="index.png">
 </p>
