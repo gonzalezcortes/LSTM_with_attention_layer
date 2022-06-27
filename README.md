@@ -10,4 +10,6 @@ Representation of the attention values:
 
 Keras architecture:
 
+<p align="center">
 ![alt text](https://github.com/gonzalezcortes/LSTM-with-attention-layer/blob/main/index.png?raw=true)
+ </p>
