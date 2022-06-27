@@ -4,8 +4,10 @@ In this notebook introduces a prediction using a Long Short-Term Memory (LSTM) w
 
 Also a prediction using XGBoost with different explanatory framework named SHAP was used to compare the LSTM with explainability.
 
+Representation of the attention values:
+
 ![alt text](https://github.com/gonzalezcortes/LSTM-with-attention-layer/blob/main/attention_values.jpg?raw=true)
 
-Keras architecture
+Keras architecture:
 
 ![alt text](https://github.com/gonzalezcortes/LSTM-with-attention-layer/blob/main/index.png?raw=true)
