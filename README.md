@@ -11,5 +11,5 @@ Representation of the attention values:
 Keras architecture:
 
 <p align="center">
- <img src="[http://some_place.com/image.png](https://github.com/gonzalezcortes/LSTM-with-attention-layer/blob/main/index.png)" />
+ <img src="[![alt text](https://github.com/gonzalezcortes/LSTM-with-attention-layer/blob/main/index.png?raw=true)](https://github.com/gonzalezcortes/LSTM-with-attention-layer/blob/main/index.png)" />
  </p>
