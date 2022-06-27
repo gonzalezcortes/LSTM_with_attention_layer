@@ -1,7 +1,3 @@
-img[src$="centerme"] {
-  display:block;
-  margin: 0 auto;
-}
 # LSTM with Explainability using an attention layer
 
 In this notebook introduces a prediction using a Long Short-Term Memory (LSTM) with explainability. The data set used is "Power consumption of Tetouan city Data Set" from UCI Machine Learning Repository.
@@ -14,6 +10,4 @@ Representation of the attention values:
 
 Keras architecture:
 
-<p align="center">
- <img src="[![alt text](https://github.com/gonzalezcortes/LSTM-with-attention-layer/blob/main/index.png?raw=true)](https://github.com/gonzalezcortes/LSTM-with-attention-layer/blob/main/index.png)" />
- </p>
+![alt text](https://github.com/gonzalezcortes/LSTM-with-attention-layer/blob/main/index.png?raw=true)
